@@ -166,18 +166,18 @@ const invoices = [
 ];
 
 const revenue = [
-  { month: 'Jan', revenue: 2000 },
-  { month: 'Feb', revenue: 1800 },
-  { month: 'Mar', revenue: 2200 },
-  { month: 'Apr', revenue: 2500 },
-  { month: 'May', revenue: 2300 },
-  { month: 'Jun', revenue: 3200 },
-  { month: 'Jul', revenue: 3500 },
-  { month: 'Aug', revenue: 3700 },
-  { month: 'Sep', revenue: 2500 },
-  { month: 'Oct', revenue: 2800 },
-  { month: 'Nov', revenue: 3000 },
-  { month: 'Dec', revenue: 4800 },
+  { month: '1月', revenue: 2000 },
+  { month: '2月', revenue: 1800 },
+  { month: '3月', revenue: 2200 },
+  { month: '4月', revenue: 2500 },
+  { month: '5月', revenue: 2300 },
+  { month: '6月', revenue: 3200 },
+  { month: '7月', revenue: 3500 },
+  { month: '8月', revenue: 3700 },
+  { month: '9月', revenue: 2500 },
+  { month: '10月', revenue: 2800 },
+  { month: '11月', revenue: 3000 },
+  { month: '12月', revenue: 4800 },
 ];
 
 module.exports = {
